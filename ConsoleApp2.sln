@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Harjutus", "2_Harjutus\2_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "readfile", "readfile\readfile.csproj", "{932463D9-64D8-4D6E-A475-33BBF7B3C34E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dateTime", "DateTime\dateTime.csproj", "{5E75923D-3A9D-4098-96EB-D867143856A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{932463D9-64D8-4D6E-A475-33BBF7B3C34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{932463D9-64D8-4D6E-A475-33BBF7B3C34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{932463D9-64D8-4D6E-A475-33BBF7B3C34E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E75923D-3A9D-4098-96EB-D867143856A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E75923D-3A9D-4098-96EB-D867143856A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E75923D-3A9D-4098-96EB-D867143856A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E75923D-3A9D-4098-96EB-D867143856A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
