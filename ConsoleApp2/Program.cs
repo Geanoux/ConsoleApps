@@ -40,6 +40,11 @@ namespace HelloWorld
                 Console.WriteLine(input[i]);
             }
         }
+
+        /// <summary>
+        /// This method prints chars in mixed way
+        /// </summary>
+        /// <param name="input"></param>
         static void printCharsMixedWay(string input)
         {
             for (int i = 0; i < input.Length; i++)
