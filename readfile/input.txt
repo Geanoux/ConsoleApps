@@ -1,0 +1,4 @@
+To reduce memory usage for large text files, you can process lines immediately instead of adding it to the 
+list as in the previous example. To do that use File.ReadLines. This method internally creates Enumerator. 
+Every time foreach asks for a next value, it calls StreamReader.Re­adLine under the hood.
+
