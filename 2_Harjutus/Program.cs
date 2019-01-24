@@ -11,10 +11,9 @@ namespace _2_Harjutus
         static void Main(string[] args)
         {
             
-            bool b1;
-            b1 = true;
-
             int int1 = getBiggestNumber(100, 20);
+
+            bool b1;
              b1 = isFirstNumberBiggerThanSecond(10, 29);
 
 
